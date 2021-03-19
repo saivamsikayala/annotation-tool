@@ -43,7 +43,7 @@ numpydoc==0.9.1
 packaging==19.2
 pathlib==1.0.1
 pathlib2==2.3.4
-Pillow==6.2.2
+Pillow==8.1.1
 plac==0.9.6
 prompt-toolkit==1.0.15
 protobuf==3.9.1
