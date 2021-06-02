@@ -68,7 +68,7 @@ terminado==0.8.1
 tornado==5.0.2
 typing==3.7.4.1
 uritemplate==3.0.0
-urllib3==1.23
+urllib3==1.26.5
 virtualenv==16.7.5
 webencodings==0.5.1
 Werkzeug==0.16.0
